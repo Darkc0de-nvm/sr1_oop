@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="../Practise2/.gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="D:/VisualStudioProj/SR1/Task10_Anagram/Task10_Anagram.csproj" />
+  <Project Path="D:/VisualStudioProj/SR1/Task2_Clock/Task2_Clock.csproj" />
+  <Project Path="D:/VisualStudioProj/SR1/Task3_MatchingBrackets/Task3_MatchingBrackets.csproj" />
+  <Project Path="D:/VisualStudioProj/SR1/Task4_Bob/Task4_Bob.csproj" />
+  <Project Path="D:/VisualStudioProj/SR1/Task5_Acronym/Task5_Acronym.csproj" />
+  <Project Path="D:/VisualStudioProj/SR1/Task6_PrimeFactors/Task6_PrimeFactors.csproj" />
+  <Project Path="D:/VisualStudioProj/SR1/Task7_LargestSeriesProduct/Task7_LargestSeriesProduct.csproj" />
+  <Project Path="D:/VisualStudioProj/SR1/Task8_House/Task8_House.csproj" />
+  <Project Path="D:/VisualStudioProj/SR1/Task9_Anagram/Task9_Matrix.csproj" />
+  <Project Path="Task1_RotationalCipher/Task1_RotationalCipher.csproj" />
+</Solution>
